@@ -1,6 +1,6 @@
-# CLAIO2022
+# CLAIO2022 (BotIO)
 
-Proyecto que busca el desarrollo e implementación de un modelo corrector de definiciones en exámenes de Investigación Operativa basado en Inteligencia Artificial. El mismo se encuentra en proceso desde Abril de 2022 hasta la actualidad, para presentar en Latin-Iberoamerican Conference on Operations Research (CLAIO) 2022, la cual se llevará a cabo en la Facultad de Ciencias Exactas de la Universidad de Buenos Aires.  Conozcan a BotIO, una experiencia pedagógica.
+Proyecto que busca el desarrollo e implementación de un modelo corrector de definiciones en exámenes de Investigación Operativa basado en Inteligencia Artificial. El mismo se encuentra en proceso desde Abril de 2022 hasta la actualidad, para presentar en Latin-Iberoamerican Conference on Operations Research (CLAIO) 2022, la cual se llevará a cabo en la Facultad de Ciencias Exactas de la Universidad de Buenos Aires.
 
 
 Abstract de la Submisión del proyecto:
